@@ -1,0 +1,167 @@
+LYRIWAVE DESKTOP END USER LICENSE AGREEMENT
+
+Last Updated: September 27, 2026
+
+IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE INSTALLING OR USING LYRIWAVE DESKTOP.
+
+By installing, copying, or using LyriWave Desktop ("Software"), you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
+
+1. LICENSOR
+
+The Software is licensed by:
+
+Lunovia
+("Licensor")
+
+Website:
+https://lunovia-apps.github.io/
+
+2. LICENSE GRANT
+
+Subject to the terms of this Agreement, the Licensor grants you a limited, non-exclusive, non-transferable, revocable license to install and use the Software for lawful personal or commercial purposes.
+
+The Software is licensed, not sold.
+
+Except for the rights expressly granted under this Agreement, all rights in and to the Software are reserved by the Licensor.
+
+3. PERMITTED USE
+
+You may:
+
+(a) install and use the Software on computers under your control;
+
+(b) use the Software to create, edit, preview, render, and export content for personal or commercial purposes; and
+
+(c) make reasonable backup copies of the Software solely for your own archival or recovery purposes.
+
+You are responsible for ensuring that you have all necessary rights to any audio, images, fonts, text, or other materials that you import into or use with the Software.
+
+4. RESTRICTIONS
+
+Unless expressly permitted by applicable law, you may not:
+
+(a) redistribute, sublicense, rent, lease, sell, or otherwise make copies of the Software available to third parties as a standalone product;
+
+(b) modify, adapt, translate, or create derivative works of the Software;
+
+(c) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software;
+
+(d) remove, obscure, or alter copyright, trademark, attribution, or proprietary notices contained in the Software or accompanying materials;
+
+(e) use the Software in violation of applicable law; or
+
+(f) use the Software in a manner intended to circumvent technical restrictions or security measures.
+
+Nothing in this Agreement restricts any right that cannot lawfully be restricted under applicable law.
+
+5. OWNERSHIP
+
+The Software and all intellectual property rights in the Software are owned by or licensed to the Licensor.
+
+This Agreement does not transfer ownership of the Software or its source code to you.
+
+"LyriWave" and associated names, logos, graphics, and branding may be protected by applicable intellectual property laws.
+
+6. USER CONTENT
+
+You retain ownership of content that you create or import using the Software.
+
+The Licensor does not acquire ownership of your lyrics, audio, images, project files, exported videos, or other user-created content merely because such content is processed using the Software.
+
+You are solely responsible for obtaining any permissions, licenses, or other rights required for materials that you use with the Software.
+
+7. THIRD-PARTY SOFTWARE AND ASSETS
+
+The Software may include or use third-party software, libraries, fonts, or other components that are subject to separate license terms.
+
+Such third-party components are not licensed under this Agreement to the extent that their respective licenses apply.
+
+Applicable third-party notices and license information are provided in THIRD_PARTY_NOTICES.txt and accompanying license files distributed with the Software.
+
+8. FFMPEG AND OTHER EXTERNAL SOFTWARE
+
+FFmpeg and ffprobe are not distributed as part of LyriWave Desktop unless expressly stated otherwise in a particular distribution.
+
+Certain features of the Software may require you to separately obtain and configure compatible versions of FFmpeg and ffprobe.
+
+FFmpeg, ffprobe, and related codecs or libraries are third-party software governed by their own licenses and terms. The Licensor does not grant any license to such separately obtained software.
+
+You are responsible for complying with any license requirements applicable to external software that you obtain and use with LyriWave Desktop.
+
+9. UPDATES AND CHANGES
+
+The Licensor may provide updates, patches, new versions, or other modifications to the Software.
+
+Updates may add, remove, modify, or discontinue functionality.
+
+Unless accompanied by separate terms, updates to the Software remain subject to this Agreement.
+
+The Licensor is not obligated to provide updates, maintenance, technical support, or continued availability of any particular feature.
+
+10. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY.
+
+THE LICENSOR DISCLAIMS, TO THE MAXIMUM EXTENT PERMITTED BY LAW, ALL WARRANTIES INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND ERROR-FREE OPERATION.
+
+THE LICENSOR DOES NOT WARRANT THAT:
+
+(a) the Software will operate without interruption or error;
+
+(b) the Software will be compatible with every computer, operating system, media format, codec, or external application;
+
+(c) project files or exported media will always be free from corruption or loss; or
+
+(d) third-party software required by the Software will remain available or compatible.
+
+You are responsible for maintaining appropriate backups of important project files and source materials.
+
+11. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOSS OF DATA, LOSS OF PROFITS, LOSS OF BUSINESS, LOSS OF OPPORTUNITY, OR INTERRUPTION OF BUSINESS, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR'S TOTAL LIABILITY ARISING OUT OF OR RELATED TO THE SOFTWARE SHALL NOT EXCEED THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE DURING THE TWELVE MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+IF YOU OBTAINED THE SOFTWARE FREE OF CHARGE, THE LICENSOR'S TOTAL LIABILITY SHALL BE LIMITED TO THE MINIMUM AMOUNT REQUIRED BY APPLICABLE LAW.
+
+Nothing in this Agreement excludes or limits liability that cannot lawfully be excluded or limited.
+
+12. TERMINATION
+
+This Agreement remains effective until terminated.
+
+Your rights under this Agreement terminate automatically if you materially violate its terms.
+
+Upon termination, you must stop using the Software and delete copies of the Software in your possession or control, except where retention is permitted or required by applicable law.
+
+Provisions that by their nature should survive termination, including provisions concerning ownership, disclaimers, limitation of liability, and governing law, shall survive termination.
+
+13. EXPORT AND LEGAL COMPLIANCE
+
+You are responsible for complying with all laws and regulations applicable to your use of the Software, including any applicable export control, sanctions, copyright, privacy, and intellectual property laws.
+
+14. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of Japan, without regard to conflict-of-law principles.
+
+15. JURISDICTION
+
+Unless otherwise required by applicable law, any dispute arising out of or relating to this Agreement or the Software shall be subject to the exclusive jurisdiction of the courts of Japan having jurisdiction over the Licensor's principal place of business.
+
+16. SEVERABILITY
+
+If any provision of this Agreement is held to be invalid or unenforceable, that provision shall be enforced to the maximum extent permitted by law, and the remaining provisions shall remain in full force and effect.
+
+17. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and the Licensor concerning the licensing and use of the Software, except for any separate written terms expressly agreed between you and the Licensor.
+
+Third-party software and assets remain subject to their respective license terms.
+
+18. CHANGES TO THIS AGREEMENT
+
+The Licensor may revise this Agreement for future versions of the Software.
+
+A revised Agreement applies to a version of the Software only when provided with or otherwise expressly made applicable to that version.
+
+Copyright (c) 2026 Lunovia. All rights reserved.
