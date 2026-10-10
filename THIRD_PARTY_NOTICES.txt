@@ -1,4 +1,4 @@
-THIRD-PARTY NOTICES FOR LYRIWAVE DESKTOP 1.0.0
+THIRD-PARTY NOTICES FOR LYRIWAVE DESKTOP
 
 LyriWave Desktop is proprietary software. The following notices
 apply only to the identified third-party components.
