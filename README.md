@@ -10,28 +10,38 @@ Product information, screenshots, system requirements, setup instructions, known
 
 https://lunovia-apps.github.io/apps/lyriwave/
 
+## Features
+
+- Edit multiline lyrics and adjust lyric timing on a visual timeline.
+- Import WAV and MP3 audio and view audio waveforms.
+- Select multiple lyric rows or timeline clips for batch editing.
+- Customize fonts, typography, text placement, shadows, and backgrounds.
+- Apply enter/exit animations, presets, and Scene Templates.
+- Preview lyrics synchronized with audio and export MP4 videos up to 1080p60.
+- Use Undo/Redo and recovery features while editing.
+
 ## Download
 
 Download LyriWave only from the official Lunovia website or the official GitHub Releases page for this repository.
 
 **GitHub Releases:**
 
-https://github.com/lunovia-apps/lyriwave/releases
+- [Latest stable release](https://github.com/lunovia-apps/lyriwave/releases/latest)
+- [All releases](https://github.com/lunovia-apps/lyriwave/releases)
 
-The current release is:
-
-**LyriWave 1.0.0**
+**Platform support:**
 
 - Platform: Windows x64
 - Primary target: Windows 11
 - Windows 10: Best effort
-- Installer: `LyriWave_1.0.0_x64-setup.exe`
 
-LyriWave 1.0.0 is distributed as an unsigned Windows application. Windows may display a security warning when launching the installer.
+LyriWave is currently distributed as an unsigned Windows application. Windows may display a security warning when launching the installer.
 
 For download information and the current release details, see:
 
 https://lunovia-apps.github.io/apps/lyriwave/
+
+For a summary of changes across releases, see [CHANGELOG.md](CHANGELOG.md).
 
 ## Redistribution
 
