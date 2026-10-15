@@ -2,6 +2,29 @@
 
 Notable user-facing changes to **LyriWave Desktop** are listed below, newest release first. For downloads and complete release information, see [GitHub Releases](https://github.com/lunovia-apps/lyriwave/releases).
 
+## [1.2.0](https://github.com/lunovia-apps/lyriwave/releases/tag/v1.2.0)
+
+### Added
+
+- Explicit project duration with 15/30/60-second presets, custom duration, and Fit to Audio.
+- Non-destructive audio placement, source trimming, volume, and Fade In/Out controls.
+- Fit-to-Timeline zoom, six detailed zoom levels, and continuous seeking by dragging the Timeline ruler.
+- Independent deletion of one or multiple lyric clips without removing their lyric lines, with Undo/Redo support.
+- Batch insertion of lyric lines and regularly spaced Timeline clips.
+
+### Improved
+
+- Higher-resolution waveforms and more accurate audio duration handling, including low-sample-rate MP3 files.
+- Recognizable imported-font names instead of generated asset filenames where metadata is available.
+- Default MP4 filenames based on the project title or saved project filename.
+- Export uses unsaved edits without automatically saving the project, and supports read-only projects.
+- Existing MP4 files can be replaced after explicit overwrite confirmation; cancellation and encoding failure preserve the original output.
+
+### Compatibility
+
+- Projects from v1.0.0 and v1.1.0 can be opened and migrated to project schema 5.
+- Projects saved in schema 5 cannot be opened by v1.0.0 or v1.1.0. Back up original projects, related assets, and user preset/Scene Template libraries before upgrading.
+
 ## [1.1.0](https://github.com/lunovia-apps/lyriwave/releases/tag/v1.1.0)
 
 ### Added
